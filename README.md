@@ -14,3 +14,8 @@ Plans:
 ## First version output looks like this:
 
 ![Text output](image.png)
+
+
+### Ethical issues
+
+TBA
