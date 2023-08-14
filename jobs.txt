@@ -5,7 +5,7 @@ Senior Software Engineer  (1 jobb)
 Mjukvaruutvecklare
 
 Page 1
-IT-projektledare mot infrastruktur  (1 jobb)
+ITprojektledare mot infrastruktur  (1 jobb)
  Quest Consulting Sverige AB -  Stockholm 
 /platsbanken/annonser/27928839
 Projektledare, IT
@@ -137,7 +137,7 @@ Frontend Utvecklare - Skapa Innovation mitt i Stockholm  (1 jobb)
 Frontend-utvecklare
 
 Page 1
-Erfaren Javautvecklare till Innovativt IT-konsultbolag  (1 jobb)
+Erfaren Javautvecklare till Innovativt ITkonsultbolag  (1 jobb)
  Submit Bemanning -  Stockholm 
 /platsbanken/annonser/27925416
 Systemutvecklare/Programmerare
@@ -167,7 +167,7 @@ Systemutvecklare/scrum master  (1 jobb)
 Systemutvecklare/Programmerare
 
 Page 2
-.NET-utvecklare till Nexer  (3 jobb)
+.NETutvecklare till Nexer  (3 jobb)
  Nexer AB -  Stockholm 
 /platsbanken/annonser/27924214
 Systemutvecklare/Programmerare
@@ -216,7 +216,7 @@ Systemutvecklare/Programmerare
 
 Page 2
 IT Project Manager  (1 jobb)
- Solna - Vattenfall -  Solna 
+ Solna Vattenfall -  Solna 
 /platsbanken/annonser/27923285
 Projektledare, IT
 
@@ -228,12 +228,12 @@ Applikationskonsult
 
 Page 2
 IT Förvaltningsledare till Solna, Ringhals, Forsmark och Oskarshamn  (1 jobb)
- Solna - Vattenfall -  Solna 
+ Solna Vattenfall -  Solna 
 /platsbanken/annonser/27922751
 Projektledare, IT
 
 Page 2
-Senior Fullstack-utvecklare .NET - Stockholm heltid  (1 jobb)
+Senior Fullstack-utvecklare .NET Stockholm heltid  (1 jobb)
  MODERNERA AB -  Stockholm 
 /platsbanken/annonser/27922634
 Systemutvecklare/Programmerare
@@ -437,13 +437,13 @@ Vi söker en självgående och säljande projektledare  (1 jobb)
 Projektledare, IT
 
 Page 3
-Senior Technical Lead .NET - Stockholm heltid  (1 jobb)
+Senior Technical Lead .NET Stockholm heltid  (1 jobb)
  MODERNERA AB -  Stockholm 
 /platsbanken/annonser/27918632
 Systemutvecklare/Programmerare
 
 Page 3
-.NET-utvecklare med intresse för Episerver  (1 jobb)
+.NETutvecklare med intresse för Episerver  (1 jobb)
  Riksgälden -  Stockholm 
 /platsbanken/annonser/27918663
 Systemutvecklare/Programmerare
@@ -462,7 +462,7 @@ Databasutvecklare
 
 Page 4
 Software Engineer - Agile WoW Tools  (1 jobb)
- IT-Avdelning -  Stockholm 
+ IT Avdelning -  Stockholm 
 /platsbanken/annonser/27918491
 Mjukvaruutvecklare
 
@@ -503,7 +503,7 @@ Java Developer ☕️  (1 jobb)
 Systemutvecklare/Programmerare
 
 Page 4
-Senior Lösningsarkitekt .Net - Stockholm heltid  (1 jobb)
+Senior Lösningsarkitekt .Net Stockholm heltid  (1 jobb)
  MODERNERA AB -  Stockholm 
 /platsbanken/annonser/27917587
 Systemutvecklare/Programmerare
@@ -533,7 +533,7 @@ Systemutvecklare av våra verksamhetssystem  (1 jobb)
 Systemutvecklare/Programmerare
 
 Page 4
-IT-Projektledare Stockholm  (1 jobb)
+ITProjektledare Stockholm  (1 jobb)
  Alten Sverige AB -  Stockholm 
 /platsbanken/annonser/27916852
 Projektledare, IT
@@ -545,7 +545,7 @@ Junior Cloud Developer  (1 jobb)
 Mjukvaruutvecklare
 
 Page 4
-Fullstack .NET-utvecklare Stockholm  (1 jobb)
+Fullstack .NETutvecklare Stockholm  (1 jobb)
  Alten Sverige AB -  Stockholm 
 /platsbanken/annonser/27916549
 Systemutvecklare/Programmerare
@@ -828,7 +828,7 @@ Systemutvecklare/Programmerare
 
 Page 6
 Applikationsspecialist till Nationella stödsystem  (1 jobb)
- Polismyndigheten, IT-avdelningen -  Stockholm 
+ Polismyndigheten, IT avdelningen -  Stockholm 
 /platsbanken/annonser/27908145
 Mjukvaruutvecklare
 
@@ -881,7 +881,7 @@ Power BI Specialist  (1 jobb)
 Systemutvecklare/Programmerare
 
 Page 6
-Senior IT-projektledare till Castra!  (1 jobb)
+Senior ITprojektledare till Castra!  (1 jobb)
  Castra -  Stockholm 
 /platsbanken/annonser/27909225
 Projektledare, IT
@@ -917,7 +917,7 @@ Patent Professional  (1 jobb)
 Civilingenjör, systemutveckling
 
 Page 7
-Erfaren .NET-utvecklare sökes till innovativt konsultbolag i centrala St...  (1 jobb)
+Erfaren .NETutvecklare sökes till innovativt konsultbolag i centrala St...  (1 jobb)
  Submit Bemanning -  Stockholm 
 /platsbanken/annonser/27908841
 Backend-utvecklare
@@ -1049,7 +1049,7 @@ Experienced Project Manager to our team in Stockholm  (2 jobb)
 Projektledare, IT
 
 Page 8
-Scrum Master - Stockholm  (2 jobb)
+Scrum Master Stockholm  (2 jobb)
  Capgemini Engineering Sverige AB -  Stockholm 
 /platsbanken/annonser/27905707
 Projektledare, IT
@@ -1140,7 +1140,7 @@ Applikationskonsult
 
 Page 8
 Data Scientist till AI/ML   (3 jobb)
- Polismyndigheten - Norrmalm - Agnega -  Stockholm 
+ Polismyndigheten Norrmalm Agnega -  Stockholm 
 /platsbanken/annonser/27865506
 Mjukvaruutvecklare
 
@@ -1157,7 +1157,7 @@ Remote: Älskar du Python/Django? Ansök via SSH!  (1 jobb)
 Systemutvecklare/Programmerare
 
 Page 8
-Stockholm: .Net-utvecklare inom e-handel  (1 jobb)
+Stockholm: .Netutvecklare inom e-handel  (1 jobb)
  Recruitmore -  Stockholm 
 /platsbanken/annonser/27905290
 Systemutvecklare/Programmerare
@@ -1217,7 +1217,7 @@ Senior Utvecklare (Microsoft) – Stockholm heltid  (1 jobb)
 Systemutvecklare/Programmerare
 
 Page 9
-Senior .Net-utvecklare – Stockholm heltid  (1 jobb)
+Senior .Netutvecklare – Stockholm heltid  (1 jobb)
  MODERNERA AB -  Stockholm 
 /platsbanken/annonser/27904281
 Systemutvecklare/Programmerare
@@ -1307,7 +1307,7 @@ Scrum Master  (2 jobb)
 Projektledare, IT
 
 Page 9
-Creative technological co-founder - remote part-time  (1 jobb)
+Creative technological co-founder - remote parttime  (1 jobb)
  MODERNERA AB -  Stockholm 
 /platsbanken/annonser/27901421
 Systemutvecklare/Programmerare
@@ -1361,7 +1361,7 @@ Projektassistent till Ragn-Sells  (1 jobb)
 Projektledare, IT
 
 Page 10
-Nyexad utvecklare till mindre IT-bolag vid Hötorget  (1 jobb)
+Nyexad utvecklare till mindre ITbolag vid Hötorget  (1 jobb)
  Graz Sweden AB -  Stockholm 
 /platsbanken/annonser/27899212
 Systemutvecklare/Programmerare
@@ -1422,7 +1422,7 @@ Mjukvaruutvecklare
 
 Page 10
 Java Developer to H&M Group  (1 jobb)
- IT-Avdelning -  Stockholm 
+ IT Avdelning -  Stockholm 
 /platsbanken/annonser/27897125
 Mjukvaruutvecklare
 
@@ -1643,7 +1643,7 @@ Funktionsutvecklare avancerade förarstödsystem  (2 jobb)
 Civilingenjör, systemutveckling
 
 Page 11
-IT- projektledare  (1 jobb)
+IT projektledare  (1 jobb)
  Apoteket AB -  Stockholm 
 /platsbanken/annonser/27817805
 Projektledare, IT
@@ -1667,7 +1667,7 @@ Senior Systemutvecklare, Stockholm  (10 jobb)
 Systemutvecklare/Programmerare
 
 Page 12
-Uppdragsledare IT-avdelningen, Stockholm  (10 jobb)
+Uppdragsledare IT avdelningen, Stockholm  (10 jobb)
  Polismyndigheten -  Stockholm 
 /platsbanken/annonser/27848677
 Projektledare, IT
@@ -1787,13 +1787,13 @@ Software Engineer - Platform Applications  (1 jobb)
 Mjukvaruutvecklare
 
 Page 12
-Utvecklare till innovativ start-up inom datorseende och fotogrammetri!  (1 jobb)
+Utvecklare till innovativ startup inom datorseende och fotogrammetri!  (1 jobb)
  Academic Work -  Stockholm 
 /platsbanken/annonser/27882690
 Systemutvecklare/Programmerare
 
 Page 12
-Front-end utvecklare inom React  (1 jobb)
+Frontend utvecklare inom React  (1 jobb)
  Svenska Kraftnät -  Sundbyberg 
 /platsbanken/annonser/27771083
 Frontend-utvecklare
@@ -1806,13 +1806,13 @@ Systemutvecklare/Programmerare
 
 Page 13
 Microsoft Enterprise Architect for Active Directory & Collaboration  (1 jobb)
- Solna - Vattenfall -  Solna 
+ Solna Vattenfall -  Solna 
 /platsbanken/annonser/27880958
 Systemutvecklare/Programmerare
 
 Page 13
 Application Consultant - Integration Services  (1 jobb)
- Solna - Vattenfall -  Solna 
+ Solna Vattenfall -  Solna 
 /platsbanken/annonser/27880933
 Systemutvecklare/Programmerare
 
@@ -1925,7 +1925,7 @@ Application Manager Sr Java at Crosskey Banking  (1 jobb)
 Applikationsutvecklare/Apputvecklare
 
 Page 13
-Praktikannons: Front-end- eller Back-end-utvecklare  (10 jobb)
+Praktikannons: Frontend- eller Back-end-utvecklare  (10 jobb)
  RR Consulting & software AB -  Stockholm 
 /platsbanken/annonser/27875010
 Backend-utvecklare
@@ -1956,7 +1956,7 @@ Systemutvecklare/Programmerare
 
 Page 14
 Teknisk Projektledare till CAG Consoden  (1 jobb)
- A-hub -  Stockholm 
+ A hub -  Stockholm 
 /platsbanken/annonser/27872876
 Projektledare, IT
 
@@ -1979,7 +1979,7 @@ Jobba fullstack i Java/Angular, Swedbank Stockholm  (1 jobb)
 Systemutvecklare/Programmerare
 
 Page 14
-Luftvärn söker en erfaren IT-/Informationssäkerhetsingenjör  (1 jobb)
+Luftvärn söker en erfaren IT/Informationssäkerhetsingenjör  (1 jobb)
  FMV -  Stockholm 
 /platsbanken/annonser/27798864
 Civilingenjör, systemutveckling
@@ -2088,7 +2088,7 @@ Mjukvaruutvecklare
 
 Page 14
 .NET Software Engineer to H&M Group  (1 jobb)
- IT-Avdelning -  Stockholm 
+ IT Avdelning -  Stockholm 
 /platsbanken/annonser/27864173
 Mjukvaruutvecklare
 
@@ -2177,7 +2177,7 @@ PHP Developer  (1 jobb)
 Mjukvaruutvecklare
 
 Page 15
-Front-End Developer (Shopify)  (1 jobb)
+FrontEnd Developer (Shopify)  (1 jobb)
  Tobii Dynavox AB -  Danderyd 
 /platsbanken/annonser/27861857
 Systemutvecklare/Programmerare
@@ -2207,7 +2207,7 @@ Embedded developer  (1 jobb)
 Mjukvaruutvecklare
 
 Page 15
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Tumba/Botkyrka -  Botkyrka 
 /platsbanken/annonser/27859592
 Systemutvecklare/Programmerare
@@ -2219,145 +2219,145 @@ Application Expert to H&M Group  (1 jobb)
 Applikationsutvecklare/Apputvecklare
 
 Page 15
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Vallentuna -  Vallentuna 
 /platsbanken/annonser/27859590
 Systemutvecklare/Programmerare
 
 Page 15
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Värmdö -  Värmdö 
 /platsbanken/annonser/27859588
 Systemutvecklare/Programmerare
 
 Page 15
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Västerhaninge/Haninge -  Haninge 
 /platsbanken/annonser/27859586
 Systemutvecklare/Programmerare
 
 Page 15
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Nacka -  Nacka 
 /platsbanken/annonser/27859585
 Systemutvecklare/Programmerare
 
 Page 15
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Sigtuna -  Sigtuna 
 /platsbanken/annonser/27859584
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Järfälla -  Järfälla 
 /platsbanken/annonser/27859581
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Kista -  Stockholm 
 /platsbanken/annonser/27859578
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Ekerö -  Ekerö 
 /platsbanken/annonser/27859568
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Rönninge/Salem -  Salem 
 /platsbanken/annonser/27859558
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Upplands Väsby -  Upplands Väsby 
 /platsbanken/annonser/27859547
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Åkersberga/Österåker -  Österåker 
 /platsbanken/annonser/27859545
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Södertälje -  Södertälje 
 /platsbanken/annonser/27859543
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Norrtälje -  Norrtälje 
 /platsbanken/annonser/27859540
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Danderyd -  Danderyd 
 /platsbanken/annonser/27859538
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Nynäshamn -  Nynäshamn 
 /platsbanken/annonser/27859522
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Tyresö -  Tyresö 
 /platsbanken/annonser/27859520
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Täby -  Täby 
 /platsbanken/annonser/27859517
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Solna -  Solna 
 /platsbanken/annonser/27859349
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Sundbyberg/Solna -  Solna 
 /platsbanken/annonser/27859327
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Botkyrka -  Botkyrka 
 /platsbanken/annonser/27859251
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Lidingö -  Lidingö 
 /platsbanken/annonser/27859232
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Huddinge -  Huddinge 
 /platsbanken/annonser/27859175
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Haninge -  Haninge 
 /platsbanken/annonser/27859007
 Systemutvecklare/Programmerare
 
 Page 16
-IT-konsult som är specialist inom Windows/Mac!  (1 jobb)
+ITkonsult som är specialist inom Windows/Mac!  (1 jobb)
  Stockholm -  Stockholm 
 /platsbanken/annonser/27858998
 Systemutvecklare/Programmerare
@@ -2729,7 +2729,7 @@ Data & BI Lead - Hybrid  (1 jobb)
 Databasutvecklare
 
 Page 19
-Junior IT-projektkoordinator till vår kund i Södertälje   (1 jobb)
+Junior ITprojektkoordinator till vår kund i Södertälje   (1 jobb)
  Cleverex Bemanning AB -  Södertälje 
 /platsbanken/annonser/27841314
 Projektledare, IT
@@ -2783,19 +2783,19 @@ Software Developer inom plattformsutveckling  (1 jobb)
 Systemutvecklare/Programmerare
 
 Page 19
-Bygg framtidens infrastruktur med oss - spännande IT-roller inom offentlig   (10 jobb)
+Bygg framtidens infrastruktur med oss - spännande ITroller inom offentlig   (10 jobb)
  Sogeti -  Solna 
 /platsbanken/annonser/27835059
 Projektledare, IT
 
 Page 19
-Bygg framtidens infrastruktur med oss - spännande IT-roller inom offentlig   (10 jobb)
+Bygg framtidens infrastruktur med oss - spännande ITroller inom offentlig   (10 jobb)
  Sogeti -  Solna 
 /platsbanken/annonser/27835056
 Projektledare, IT
 
 Page 19
-Bygg framtidens infrastruktur med oss - spännande IT-roller inom offentlig   (10 jobb)
+Bygg framtidens infrastruktur med oss - spännande ITroller inom offentlig   (10 jobb)
  Sogeti -  Solna 
 /platsbanken/annonser/27835055
 Projektledare, IT
@@ -2831,7 +2831,7 @@ Configuration Manager  (1 jobb)
 Projektledare, IT
 
 Page 19
-PROJEKTLEDARE INOM IT-SÄKERHET TILL MUST  (1 jobb)
+PROJEKTLEDARE INOM ITSÄKERHET TILL MUST  (1 jobb)
  Försvarsmakten -  Stockholm 
 /platsbanken/annonser/27753271
 Projektledare, IT
@@ -2975,7 +2975,7 @@ DevOps Engineer  (2 jobb)
 Systemutvecklare/Programmerare
 
 Page 20
-Fullstack .NET-utvecklare till Combitech i Stockholm  (2 jobb)
+Fullstack .NETutvecklare till Combitech i Stockholm  (2 jobb)
  Combitech AB -  Stockholm 
 /platsbanken/annonser/27823392
 Mjukvaruutvecklare
@@ -3365,7 +3365,7 @@ Senior utvecklare sökes till Stocholm  (2 jobb)
 Backend-utvecklare
 
 Page 23
-Microsoft SharePoint-utvecklare  (2 jobb)
+Microsoft SharePointutvecklare  (2 jobb)
  Sogeti Sverige AB -  Solna 
 /platsbanken/annonser/27784851
 Systemutvecklare/Programmerare
@@ -3425,8 +3425,8 @@ Senior utvecklare sökes till Stocholm  (2 jobb)
 Backend-utvecklare
 
 Page 23
-Seniora utvecklare inom PEGA (LSA/SSA) till IT-avdelningen  (4 jobb)
- Arbetsförmedlingen, VO IT, IT-avdelningen -  Solna 
+Seniora utvecklare inom PEGA (LSA/SSA) till IT avdelningen  (4 jobb)
+ Arbetsförmedlingen, VO IT, IT avdelningen -  Solna 
 /platsbanken/annonser/27779098
 Systemutvecklare/Programmerare
 
@@ -3539,7 +3539,7 @@ Fullstack Software Engineer till SJ AB  (1 jobb)
 Mjukvaruutvecklare
 
 Page 24
-Senior IT-projektledare  (1 jobb)
+Senior ITprojektledare  (1 jobb)
  Castra -  Stockholm 
 /platsbanken/annonser/27769426
 Projektledare, IT
@@ -3600,7 +3600,7 @@ Systemutvecklare/Programmerare
 
 Page 25
 Webbutvecklare PHP/WordPress  (1 jobb)
- Mild Media - Stockholm -  Stockholm 
+ Mild Media Stockholm -  Stockholm 
 /platsbanken/annonser/27765430
 Systemutvecklare/Programmerare
 
@@ -3612,7 +3612,7 @@ Mjukvaruutvecklare
 
 Page 25
 Webbutvecklare Laravel   (1 jobb)
- Mild Media - Stockholm -  Stockholm 
+ Mild Media Stockholm -  Stockholm 
 /platsbanken/annonser/27765350
 Systemutvecklare/Programmerare
 
@@ -3624,7 +3624,7 @@ Systemdesigner
 
 Page 25
 Agil coach  (2 jobb)
- Trafikförvaltningen, IT-avdelningen -  Stockholm 
+ Trafikförvaltningen, IT avdelningen -  Stockholm 
 /platsbanken/annonser/27764040
 Projektledare, IT
 
@@ -3906,7 +3906,7 @@ Systemutvecklare/Programmerare
 
 Page 27
 Javautvecklare som bidrar till framtidens innovationer  (1 jobb)
- Patent- och registreringsverket -  Stockholm 
+ Patent och registreringsverket -  Stockholm 
 /platsbanken/annonser/27738256
 Systemutvecklare/Programmerare
 
@@ -3929,7 +3929,7 @@ Solution Architects  (2 jobb)
 Civilingenjör, systemutveckling
 
 Page 27
-Senior Front-end Developer to GpsGate  (1 jobb)
+Senior Frontend Developer to GpsGate  (1 jobb)
  STACC -  Stockholm 
 /platsbanken/annonser/27735324
 Frontend-utvecklare
@@ -4013,7 +4013,7 @@ Mobile Application Engineer  (1 jobb)
 Applikationsutvecklare/Apputvecklare
 
 Page 27
-Teknisk projektledare inom IT-infrastruktur!  (1 jobb)
+Teknisk projektledare inom ITinfrastruktur!  (1 jobb)
  Sigma Technology IT Infra AB -  Stockholm 
 /platsbanken/annonser/27724031
 Projektledare, IT
@@ -4037,7 +4037,7 @@ Senior Fullstack Developer  (1 jobb)
 Systemutvecklare/Programmerare
 
 Page 27
-Senior Front-end Developer  (1 jobb)
+Senior Frontend Developer  (1 jobb)
  GpsGate -  Stockholm 
 /platsbanken/annonser/27717396
 Systemutvecklare/Programmerare
@@ -4163,7 +4163,7 @@ Applikationskonsult D365 SCM till Nexer Enterprise Applications  (1 jobb)
 Applikationskonsult
 
 Page 28
-.Net-utvecklare  (1 jobb)
+.Netutvecklare  (1 jobb)
  Webstep -  Stockholm 
 /platsbanken/annonser/27671887
 Backend-utvecklare
@@ -4289,7 +4289,7 @@ Fullstack Developer  (1 jobb)
 Systemutvecklare/Programmerare
 
 Page 29
-Projekt- och Förvaltningsledare med fokus på ERP Business Central  (1 jobb)
+Projekt och Förvaltningsledare med fokus på ERP Business Central  (1 jobb)
  Fellowmind Sweden -  Stockholm 
 /platsbanken/annonser/27639935
 Projektledare, IT
@@ -4337,7 +4337,7 @@ Senior Data Engineer  (1 jobb)
 Data Warehouse specialist
 
 Page 29
-C# / .Net-utvecklare för spännande uppdrag  (1 jobb)
+C# / .Netutvecklare för spännande uppdrag  (1 jobb)
  Envoke Talent AB -  Stockholm 
 /platsbanken/annonser/27607365
 Systemutvecklare/Programmerare
@@ -4476,7 +4476,7 @@ Systemutvecklare/Programmerare
 
 Page 30
 Senior fullstack-utvecklare  (1 jobb)
- Easy Peasy Insurance - Stockholm -  Stockholm 
+ Easy Peasy Insurance Stockholm -  Stockholm 
 /platsbanken/annonser/27565170
 Mjukvaruutvecklare
 
@@ -4488,7 +4488,7 @@ Systemdesigner
 
 Page 30
 Release Train Engineer (RTE) till Sektionen Strategi MEET FA  (1 jobb)
- Arbetsförmedlingen, IT-avdelningen, Enheten Fristående Aktörer -  Solna 
+ Arbetsförmedlingen, IT avdelningen, Enheten Fristående Aktörer -  Solna 
 /platsbanken/annonser/27541094
 Projektledare, IT
 
@@ -4523,13 +4523,13 @@ Business Intelligence-konsult till vårt team  (1 jobb)
 Data Warehouse specialist
 
 Page 31
-.NET-utvecklare inom Dynamics 365 CE (CRM)  (1 jobb)
+.NETutvecklare inom Dynamics 365 CE (CRM)  (1 jobb)
  Sopra Steria -  Stockholm 
 /platsbanken/annonser/27518110
 Systemutvecklare/Programmerare
 
 Page 31
-.NET-utvecklare inom Dynamics 365 CE (CRM)  (1 jobb)
+.NETutvecklare inom Dynamics 365 CE (CRM)  (1 jobb)
  Sopra Steria -  Stockholm 
 /platsbanken/annonser/27518093
 Backend-utvecklare
@@ -4793,7 +4793,7 @@ Senior C# developer – backend framework  (1 jobb)
 Systemutvecklare/Programmerare
 
 Page 32
-Elixir/Erlang Developer (Consultant) - Stockholm/Nordics/Remote  (2 jobb)
+Elixir/Erlang Developer (Consultant) Stockholm/Nordics/Remote  (2 jobb)
  Erlang Solutions AB -  Stockholm 
 /platsbanken/annonser/27399714
 Systemutvecklare/Programmerare
